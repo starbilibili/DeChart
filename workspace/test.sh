@@ -5,8 +5,7 @@ export CUDA_VISIBLE_DEVICES=0
 MODEL_ROOT="/lustre/home/xiechenyu2023/saved_model/KPDetect/v1"  # 模型根目录
 OUTPUT_ROOT="/data5/home/xiechenyu2023/project/ChartQA/DeChart_workplace/KPDetection_module/data/output"  # 输出结果根目录
 
-# 单模型测试
-# MODEL_NAME=Qwen2-VL-7B-Instruct
+# checkpoint名称
 MODEL_NAME=Qwen_KPDetect_1018_checkpoint-630
 # 构建完整的模型路径
 MODEL_PATH="$MODEL_ROOT/$MODEL_NAME"
