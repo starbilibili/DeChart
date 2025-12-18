@@ -69,10 +69,6 @@ def evaluate_in_chartqa(pred_dir, gt_dir, version='v1'):
     print("F1_: ", f1_)
 
 if __name__ == "__main__":
-    # pred_dir = "/data5/home/xiechenyu2023/project/ChartQA/ChartDetect/a-workspace/output_dir/deplot_result/table"
-    # pred_dir = "/data5/home/xiechenyu2023/project/ChartQA/ChartDetect/a-workspace/output_dir/qwen_results/qwen2.5_vl-7b_DeChart_onlytext_checkpoint-24000"
-    # pred_dir = "/data5/home/xiechenyu2023/project/ChartQA/ChartDetect/a-workspace/output_dir/qwen_results/qwen2.5_vl-7b_ChartQA_CoT_checkpoint-21000"
     pred_dir = "/data5/home/xiechenyu2023/project/ChartQA/CPAgent/output/Qwen3-VL-8B/chartqa_pie"
     gt_dir = "/data5/home/xiechenyu2023/project/ChartQA/mydatasets/ChartQA/test_pie/tables"
-    # gt_dir = "/lustre/home/xiechenyu2023/ChartQA_Dataset/DeChart/test/tables/"
     evaluate_in_chartqa(pred_dir, gt_dir, version='v2')
