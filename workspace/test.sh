@@ -20,4 +20,4 @@ echo "Output directory: $SAVED_DIR"
 # 执行 test.py 脚本
 python /data5/home/xiechenyu2023/project/ChartQA/Qwen2/workspace/test.py \
     --model_path "$MODEL_PATH" \
-    --saved_dir "$SAVED_DIR" > /data5/home/xiechenyu2023/project/ChartQA/Qwen2/workspace/logs/test_Chart2table_Dechart_1006_checkpoint-12000.log 2>&1 &
+    --saved_dir "$SAVED_DIR" > ./logs/test.log 2>&1 &
