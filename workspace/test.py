@@ -120,11 +120,8 @@ if __name__ == '__main__':
     )
     processor = AutoProcessor.from_pretrained(model_path)
 
-    # test_dir = "/data5/home/xiechenyu2023/project/ChartQA/mydatasets/ChartQA_test_scale_t30_with_CoT.jsonl"
     test_dir = "/data5/home/xiechenyu2023/project/ChartQA/mydatasets/PlotQA_test_with_CoT.jsonl"
-    # out_root = "/data5/home/xiechenyu2023/project/ChartQA/ChartDetect/a-workspace/output_dir/qwen_results"
     saved_dir = args.saved_dir
-    # saved_dir = "/data5/home/xiechenyu2023/project/ChartQA/ChartDetect/a-workspace/output_dir/qwen_results/debug"
     # 如果文件夹不存在，则创建
     if not os.path.exists(f"{saved_dir}"):
         os.makedirs(f"{saved_dir}")
@@ -182,8 +179,3 @@ if __name__ == '__main__':
             # writer.writerows(response)
             for i in response:
                 f.write(i + '\n')
-        
-    # evaluate_internvl_in_chartqa(f"{saved_dir}", "/data5/home/xiechenyu2023/project/ChartQA/mydatasets/ChartQA/test/tables")
-    evaluate_internvl_in_chartqa(f"{saved_dir}", "/lustre/home/xiechenyu2023/ChartQA_Dataset/plotQA/tables", version='v2')
-    # end = time.time()
-    # print("The cost of time(100sample):", end - start)
