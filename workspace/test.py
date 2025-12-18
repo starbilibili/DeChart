@@ -140,10 +140,7 @@ if __name__ == '__main__':
         file_name = image_name.split('.')[0]
         # messages = get_messages_single_chat(image_path, line)
         messages = get_messages_multi_chat(image_path, line)
-        # texts = [
-        #     processor.apply_chat_template(msg, tokenize=False, add_generation_prompt=True)
-        #     for msg in messages
-        # ]
+
         text = processor.apply_chat_template(
             messages,
             tokenize=False,
