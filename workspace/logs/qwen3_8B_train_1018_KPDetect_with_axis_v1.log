@@ -1,0 +1,365 @@
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/datapoints/__init__.py:12: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/transforms/v2/__init__.py:54: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+[2025-10-20 10:38:08,186] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[INFO|2025-10-20 10:38:19] llamafactory.cli:143 >> Initializing 4 distributed tasks at: 127.0.0.1:28002
+WARNING:torch.distributed.run:
+*****************************************
+Setting OMP_NUM_THREADS environment variable for each process to be 1 in default, to avoid your system being overloaded, please further tune the variable for optimal performance in your application as needed. 
+*****************************************
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/datapoints/__init__.py:12: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/datapoints/__init__.py:12: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/datapoints/__init__.py:12: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/datapoints/__init__.py:12: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/transforms/v2/__init__.py:54: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/transforms/v2/__init__.py:54: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/transforms/v2/__init__.py:54: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torchvision/transforms/v2/__init__.py:54: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+[2025-10-20 10:38:33,518] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-20 10:38:33,652] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-20 10:38:33,694] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-10-20 10:38:33,804] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Using the `WANDB_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+Using the `WANDB_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+Using the `WANDB_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+Using the `WANDB_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+[INFO|2025-10-20 10:38:39] llamafactory.hparams.parser:383 >> Process rank: 1, world size: 4, device: cuda:1, distributed training: True, compute dtype: torch.bfloat16
+[INFO|2025-10-20 10:38:39] llamafactory.hparams.parser:383 >> Process rank: 3, world size: 4, device: cuda:3, distributed training: True, compute dtype: torch.bfloat16
+[WARNING|2025-10-20 10:38:39] llamafactory.hparams.parser:148 >> `ddp_find_unused_parameters` needs to be set as False for LoRA in DDP training.
+[INFO|2025-10-20 10:38:39] llamafactory.hparams.parser:383 >> Process rank: 2, world size: 4, device: cuda:2, distributed training: True, compute dtype: torch.bfloat16
+[INFO|2025-10-20 10:38:39] llamafactory.hparams.parser:383 >> Process rank: 0, world size: 4, device: cuda:0, distributed training: True, compute dtype: torch.bfloat16
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:39,853 >> loading file vocab.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:39,853 >> loading file merges.txt
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:39,853 >> loading file tokenizer.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:39,854 >> loading file added_tokens.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:39,854 >> loading file special_tokens_map.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:39,854 >> loading file tokenizer_config.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:39,854 >> loading file chat_template.jinja
+[INFO|tokenization_utils_base.py:2313] 2025-10-20 10:38:40,520 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+[INFO|image_processing_base.py:379] 2025-10-20 10:38:40,532 >> loading configuration file /lustre/home/xiechenyu2023/saved_model/qwen3/Qwen3-VL-8B-Instruct-FP8/preprocessor_config.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:40,534 >> loading file vocab.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:40,534 >> loading file merges.txt
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:40,534 >> loading file tokenizer.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:40,534 >> loading file added_tokens.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:40,534 >> loading file special_tokens_map.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:40,534 >> loading file tokenizer_config.json
+[INFO|tokenization_utils_base.py:2048] 2025-10-20 10:38:40,534 >> loading file chat_template.jinja
+[INFO|tokenization_utils_base.py:2313] 2025-10-20 10:38:41,050 >> Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+[INFO|2025-10-20 10:38:41] llamafactory.data.template:143 >> Add <|im_end|> to stop words.
+[INFO|2025-10-20 10:38:41] llamafactory.data.loader:143 >> Loading dataset /data5/home/xiechenyu2023/project/ChartQA/mydatasets/KPDetect_with_axis/KPDetect_train_cls&plotqa_qwen.json...
+Converting format of dataset (num_proc=16):   0%|          | 0/91 [00:00<?, ? examples/s]Converting format of dataset (num_proc=16):  20%|█▉        | 18/91 [00:00<00:00, 175.99 examples/s]Converting format of dataset (num_proc=16): 100%|██████████| 91/91 [00:00<00:00, 375.81 examples/s]
+Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:00<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:00<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]
+multiprocess.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/multiprocess/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 678, in _write_generator_to_queue
+    for i, result in enumerate(func(**kwargs)):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3519, in _map_single
+    for i, batch in iter_outputs(shard_iterable):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3469, in iter_outputs
+    yield i, apply_function(example, i, offset=offset)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3392, in apply_function
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/processor/supervised.py", line 112, in preprocess_dataset
+    input_ids, labels = self._encode_data_example(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/processor/supervised.py", line 47, in _encode_data_example
+    messages = self.template.mm_plugin.process_messages(prompt + response, images, videos, audios, self.processor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/mm_plugin.py", line 1195, in process_messages
+    self._validate_input(processor, images, videos, audios)
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/mm_plugin.py", line 163, in _validate_input
+    raise ValueError("Processor was not found, please check and update your processor config.")
+ValueError: Processor was not found, please check and update your processor config.
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py", line 23, in <module>
+    launch()
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py", line 19, in launch
+    run_exp()
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/tuner.py", line 107, in run_exp
+    _training_function(config={"args": args, "callbacks": callbacks})
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/tuner.py", line 69, in _training_function
+    run_sft(model_args, data_args, training_args, finetuning_args, generating_args, callbacks)
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/sft/workflow.py", line 54, in run_sft
+    dataset_module = get_dataset(template, model_args, data_args, training_args, stage="sft", **tokenizer_module) 
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/loader.py", line 304, in get_dataset
+    dataset = _get_preprocessed_dataset(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/loader.py", line 249, in _get_preprocessed_dataset
+    dataset = dataset.map(
+              ^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 562, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3171, in map
+    for rank, done, content in iflatmap_unordered(
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 718, in iflatmap_unordered
+    [async_result.get(timeout=0.05) for async_result in async_results]
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 718, in <listcomp>
+    [async_result.get(timeout=0.05) for async_result in async_results]
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/multiprocess/pool.py", line 774, in get
+    raise self._value
+ValueError: Processor was not found, please check and update your processor config.
+Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:00<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:00<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:00<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:00<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:01<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:02<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:03<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:03<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:03<?, ? examples/s]
+Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:03<?, ? examples/s]multiprocess.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/multiprocess/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 678, in _write_generator_to_queue
+    for i, result in enumerate(func(**kwargs)):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3519, in _map_single
+    for i, batch in iter_outputs(shard_iterable):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3469, in iter_outputs
+    yield i, apply_function(example, i, offset=offset)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3392, in apply_function
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/processor/supervised.py", line 112, in preprocess_dataset
+    input_ids, labels = self._encode_data_example(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/processor/supervised.py", line 47, in _encode_data_example
+    messages = self.template.mm_plugin.process_messages(prompt + response, images, videos, audios, self.processor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/mm_plugin.py", line 1195, in process_messages
+    self._validate_input(processor, images, videos, audios)
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/mm_plugin.py", line 163, in _validate_input
+    raise ValueError("Processor was not found, please check and update your processor config.")
+ValueError: Processor was not found, please check and update your processor config.
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py", line 23, in <module>
+    launch()
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py", line 19, in launch
+    run_exp()
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/tuner.py", line 107, in run_exp
+    _training_function(config={"args": args, "callbacks": callbacks})
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/tuner.py", line 69, in _training_function
+    run_sft(model_args, data_args, training_args, finetuning_args, generating_args, callbacks)
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/sft/workflow.py", line 54, in run_sft
+    dataset_module = get_dataset(template, model_args, data_args, training_args, stage="sft", **tokenizer_module) 
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/loader.py", line 304, in get_dataset
+    dataset = _get_preprocessed_dataset(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/loader.py", line 249, in _get_preprocessed_dataset
+    dataset = dataset.map(
+              ^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 562, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3171, in map
+    for rank, done, content in iflatmap_unordered(
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 718, in iflatmap_unordered
+    [async_result.get(timeout=0.05) for async_result in async_results]
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 718, in <listcomp>
+    [async_result.get(timeout=0.05) for async_result in async_results]
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/multiprocess/pool.py", line 774, in get
+    raise self._value
+ValueError: Processor was not found, please check and update your processor config.
+Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:03<?, ? examples/s]
+multiprocess.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/multiprocess/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 678, in _write_generator_to_queue
+    for i, result in enumerate(func(**kwargs)):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3519, in _map_single
+    for i, batch in iter_outputs(shard_iterable):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3469, in iter_outputs
+    yield i, apply_function(example, i, offset=offset)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3392, in apply_function
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/processor/supervised.py", line 112, in preprocess_dataset
+    input_ids, labels = self._encode_data_example(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/processor/supervised.py", line 47, in _encode_data_example
+    messages = self.template.mm_plugin.process_messages(prompt + response, images, videos, audios, self.processor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/mm_plugin.py", line 1195, in process_messages
+    self._validate_input(processor, images, videos, audios)
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/mm_plugin.py", line 163, in _validate_input
+    raise ValueError("Processor was not found, please check and update your processor config.")
+ValueError: Processor was not found, please check and update your processor config.
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py", line 23, in <module>
+    launch()
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py", line 19, in launch
+    run_exp()
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/tuner.py", line 107, in run_exp
+    _training_function(config={"args": args, "callbacks": callbacks})
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/tuner.py", line 69, in _training_function
+    run_sft(model_args, data_args, training_args, finetuning_args, generating_args, callbacks)
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/sft/workflow.py", line 54, in run_sft
+    dataset_module = get_dataset(template, model_args, data_args, training_args, stage="sft", **tokenizer_module) 
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/loader.py", line 304, in get_dataset
+    dataset = _get_preprocessed_dataset(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/loader.py", line 249, in _get_preprocessed_dataset
+    dataset = dataset.map(
+              ^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 562, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3171, in map
+    for rank, done, content in iflatmap_unordered(
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 718, in iflatmap_unordered
+    [async_result.get(timeout=0.05) for async_result in async_results]
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 718, in <listcomp>
+    [async_result.get(timeout=0.05) for async_result in async_results]
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/multiprocess/pool.py", line 774, in get
+    raise self._value
+ValueError: Processor was not found, please check and update your processor config.
+Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:03<?, ? examples/s]Running tokenizer on dataset (num_proc=16):   0%|          | 0/91 [00:03<?, ? examples/s]
+multiprocess.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/multiprocess/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 678, in _write_generator_to_queue
+    for i, result in enumerate(func(**kwargs)):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3519, in _map_single
+    for i, batch in iter_outputs(shard_iterable):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3469, in iter_outputs
+    yield i, apply_function(example, i, offset=offset)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3392, in apply_function
+    processed_inputs = function(*fn_args, *additional_args, **fn_kwargs)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/processor/supervised.py", line 112, in preprocess_dataset
+    input_ids, labels = self._encode_data_example(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/processor/supervised.py", line 47, in _encode_data_example
+    messages = self.template.mm_plugin.process_messages(prompt + response, images, videos, audios, self.processor)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/mm_plugin.py", line 1195, in process_messages
+    self._validate_input(processor, images, videos, audios)
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/mm_plugin.py", line 163, in _validate_input
+    raise ValueError("Processor was not found, please check and update your processor config.")
+ValueError: Processor was not found, please check and update your processor config.
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py", line 23, in <module>
+    launch()
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py", line 19, in launch
+    run_exp()
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/tuner.py", line 107, in run_exp
+    _training_function(config={"args": args, "callbacks": callbacks})
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/tuner.py", line 69, in _training_function
+    run_sft(model_args, data_args, training_args, finetuning_args, generating_args, callbacks)
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/train/sft/workflow.py", line 54, in run_sft
+    dataset_module = get_dataset(template, model_args, data_args, training_args, stage="sft", **tokenizer_module) 
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/loader.py", line 304, in get_dataset
+    dataset = _get_preprocessed_dataset(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/data/loader.py", line 249, in _get_preprocessed_dataset
+    dataset = dataset.map(
+              ^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 562, in wrapper
+    out: Union["Dataset", "DatasetDict"] = func(self, *args, **kwargs)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/arrow_dataset.py", line 3171, in map
+    for rank, done, content in iflatmap_unordered(
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 718, in iflatmap_unordered
+    [async_result.get(timeout=0.05) for async_result in async_results]
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/datasets/utils/py_utils.py", line 718, in <listcomp>
+    [async_result.get(timeout=0.05) for async_result in async_results]
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/multiprocess/pool.py", line 774, in get
+    raise self._value
+ValueError: Processor was not found, please check and update your processor config.
+ERROR:torch.distributed.elastic.multiprocessing.api:failed (exitcode: 1) local_rank: 0 (pid: 28042) of binary: /data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/bin/python
+Traceback (most recent call last):
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/bin/torchrun", line 8, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torch/distributed/elastic/multiprocessing/errors/__init__.py", line 346, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torch/distributed/run.py", line 794, in main
+    run(args)
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torch/distributed/run.py", line 785, in run
+    elastic_launch(
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torch/distributed/launcher/api.py", line 134, in __call__
+    return launch_agent(self._config, self._entrypoint, list(args))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data5/home/xiechenyu2023/environment/miniconda3/envs/ChartLLM/lib/python3.11/site-packages/torch/distributed/launcher/api.py", line 250, in launch_agent
+    raise ChildFailedError(
+torch.distributed.elastic.multiprocessing.errors.ChildFailedError: 
+============================================================
+/data5/home/xiechenyu2023/project/ChartQA/Qwen2/LLaMA-Factory-main/src/llamafactory/launcher.py FAILED
+------------------------------------------------------------
+Failures:
+[1]:
+  time      : 2025-10-20_10:38:54
+  host      : node14
+  rank      : 1 (local_rank: 1)
+  exitcode  : 1 (pid: 28043)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+[2]:
+  time      : 2025-10-20_10:38:54
+  host      : node14
+  rank      : 2 (local_rank: 2)
+  exitcode  : 1 (pid: 28044)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+[3]:
+  time      : 2025-10-20_10:38:54
+  host      : node14
+  rank      : 3 (local_rank: 3)
+  exitcode  : 1 (pid: 28045)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+------------------------------------------------------------
+Root Cause (first observed failure):
+[0]:
+  time      : 2025-10-20_10:38:54
+  host      : node14
+  rank      : 0 (local_rank: 0)
+  exitcode  : 1 (pid: 28042)
+  error_file: <N/A>
+  traceback : To enable traceback see: https://pytorch.org/docs/stable/elastic/errors.html
+============================================================
+True

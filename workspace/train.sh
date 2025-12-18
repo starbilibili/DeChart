@@ -1,0 +1,1 @@
+nohup python /data5/home/xiechenyu2023/project/ChartQA/Qwen2/workspace/train.py > /data5/home/xiechenyu2023/project/ChartQA/Qwen2/workspace/logs/qwen2.5_7B_train_1018_KPDetect_with_axis_v3.log 2>&1 &
